@@ -13,3 +13,4 @@ Data and services flow between people devices to adapt to the needs of everyone 
 ## How
 Every node is a BitTorrent peer with DHT and is able to detect if the data it stores is also present in enough nodes in the neighborhood. If there are too few nodes with the same data it will upload the data to other nodes to ensure the data availability.
 Every chunk of data is encrypted by the client to preserve the privacy.
+
